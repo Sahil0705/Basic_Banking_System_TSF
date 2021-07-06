@@ -1,3 +1,12 @@
+Graduate Rotational Internship Program
+The Sparks Foundation
+
+July-21
+
+Task_1 
+
+#gripjuly21
+
 Basic Banking App
 
 ◇ Create a simple mobile app which has the following specs.
